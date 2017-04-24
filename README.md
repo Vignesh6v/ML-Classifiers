@@ -9,5 +9,5 @@ Preprocessing + Random Forest for Moive review
 * 100 desicion trees were used to in the Random Forest 
 
 Logistic Regression + Gradient Descent for Cancer Data
-* sigmoid function
-* finding epoch and alpha
+* Sigmoid function
+* Finding epoch and alpha
